@@ -1,1 +1,1 @@
-worker: python prettyclerk/main.py
+worker: python ./main.py
